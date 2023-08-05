@@ -1,2 +1,2 @@
 # 2023-Mathematics-Competition-Cup
-华数
+2023 华数A题
